@@ -17,8 +17,8 @@ public class ChristineTestClass {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("HI CHeezy!");
-        
+        System.out.println("HI CHeezy!!!!!!!!!!!!");
+        System.out.println("HI LEila ;)");
     }
     
 }
